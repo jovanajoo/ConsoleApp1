@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayPerformanceTest.cs" />
+    <Compile Include="HashsetPerformanceTest.cs" />
+    <Compile Include="LinkedListPerformanceTest.cs" />
+    <Compile Include="PerformanceTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
